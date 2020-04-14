@@ -1,0 +1,45 @@
+{
+    "logs": [
+        {
+            "id": 1,
+            "message": "asdasdas",
+            "attention": false,
+            "date": "03-04-2020",
+            "tech": "Dave"
+        },
+
+        {
+            "id": 2,
+            "message": "foolso",
+            "attention": false,
+            "date": "03-14-2020",
+            "tech": "Voi"
+        },
+
+        {
+            "id": 3,
+            "message": "Doalsod",
+            "attention": false,
+            "date": "03-11-2020",
+            "tech": "Bushan Singh"
+        }
+    ],
+
+    "techs": [
+       { 
+           "id": 1,
+           "firstName": "Dave",
+           "lastName": ""
+       },
+       {
+            "id": 2,
+            "firstName": "Voi",
+            "lastName": ""
+       },
+       {
+            "id": 3,
+            "firstName": "Bhushan",
+            "lastName": "Singh"
+       }
+    ] 
+}
